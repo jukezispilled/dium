@@ -17,7 +17,7 @@ export default function App() {
       )}
       <header className="bg-[#0B0B0B] px-6 py-4 flex items-center justify-between">
         <div className="flex items-center gap-8">
-          <a href="#">
+          <a href="/">
             <img src="ray.png" alt="Raydium" className="size-14 rounded-full" />
           </a>
           <nav className="md:flex items-center gap-6 text-md hidden md:visible text-slate-500 pl-5">
