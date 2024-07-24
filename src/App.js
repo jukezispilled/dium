@@ -24,10 +24,10 @@ export default function App() {
             <a href="/" className="text-sky-200">
               Swap
             </a>
-            <a href="https://x.com/" className="">
+            <a href="https://x.com/raycatsolana" className="">
               Twitter
             </a>
-            <a href="https://t.me/" className="">
+            <a href="https://t.me/raycatonsol" className="">
               Telegram
             </a>
             <a href="/" className="flex justify-center gap-1 items-center">
