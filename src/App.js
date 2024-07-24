@@ -170,7 +170,7 @@ export default function App() {
             <div className=''>
 
             </div>
-            <a href="https://pump.fun/board">
+            <a href="https://pump.fun/ApVABe4FcLF6KnTxEngzJWmHYViTFH3Qhdi6Bddwpump">
               <button className="bg-[#69CDDB] w-full rounded-md py-2 text-md font-medium text-[#191F34]">Swap</button>
             </a>
           </div>
