@@ -4,7 +4,7 @@ export default function App() {
   const [showBanner, setShowBanner] = useState(true);
 
   return (
-    <div className="flex flex-col min-h-screen bg-[#070B15] text-white">
+    <div className="flex flex-col min-h-screen bg-cover text-white" style={{ backgroundImage: 'url("/gay.jpg")' }}>
       {showBanner && (
         <div className="bg-[#1E243C] text-sky-200 p-2 flex justify-center items-center text-xs font-light">
           <span>Welcome to Gay! Let's send this shit fam. Coming soon!</span>
@@ -176,7 +176,7 @@ export default function App() {
           </div>
         </div>
         <div className="max-w-[800px] mx-auto mt-8 hidden md:block">
-          <h2 className="text-xl font-bold mb-4 text-sky-200">Recent Swaps</h2>
+          <h2 className="text-xl font-bold mb-4 text-white">Recent Swaps</h2>
           <div className="bg-[#1E243C] rounded-lg overflow-hidden">
             <table className="min-w-full bg-[#1E243C]">
               <thead>
