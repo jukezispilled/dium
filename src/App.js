@@ -20,8 +20,8 @@ export default function App() {
           <a href="/">
             <img src="ray.png" alt="Raydium" className="size-14 rounded-full" />
           </a>
-          <nav className="md:flex items-center gap-6 text-md hidden md:visible text-slate-500 pl-5">
-            <a href="/" className="text-sky-200">
+          <nav className="md:flex items-center gap-6 text-md hidden md:visible text-slate-200 pl-5">
+            <a href="/" className="text-sky-100">
               Swap
             </a>
             <a href="https://x.com/" className="">
