@@ -113,7 +113,7 @@ export default function App() {
                 </div>
                 <div className='flex flex-col justify-between'>
                   <div className='text-2xl md:text-3xl flex justify-end'>
-                    10
+                    13
                   </div>
                   <div className='flex justify-end text-sm text-slate-500'>
                     ~$1,791.27
