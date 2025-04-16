@@ -24,11 +24,8 @@ export default function App() {
             <a href="/" className="text-sky-100">
               Swap
             </a>
-            <a href="https://x.com/GaydiumWTF" className="">
+            <a href="https://x.com/gaydiumpump" className="">
               Twitter
-            </a>
-            <a href="https://t.me/GayPortalSolana" className="">
-              Telegram
             </a>
             <a href="/" className="flex justify-center gap-1 items-center">
               More
