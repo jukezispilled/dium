@@ -7,7 +7,7 @@ export default function App() {
     <div className="flex flex-col min-h-screen bg-cover text-white" style={{ backgroundImage: 'url("/gay.jpg")' }}>
       {showBanner && (
         <div className="bg-[#1E243C] text-sky-200 p-2 flex justify-center items-center text-xs font-light">
-          <span>Welcome to Gay! Let's send this shit fam. CA: G8j8frbcAvPaiRnnjqhvEMAJ41eMWeAzA4JWUibupump</span>
+          <span>Welcome to Gay! Let's send this shit fam. CA: updating...</span>
           <button onClick={() => setShowBanner(false)} className="text-sky-100 font-light absolute right-5 text-xs">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-3">
               <path strokeLinecap="round" strokeLinejoin="round" d="M6 18 18 6M6 6l12 12" />
